@@ -89,14 +89,14 @@ Alternatively, you can run `Jupyter` or `Colab` and open `a2-indep-comp-analysis
 ## Assignment 3: Problem set
 Assignment 3 was a problem set with no Python component. I've included the .PDF as a placeholder to keep the directory structure consistent.
 
-## Assignment 4: Gaussian Processes
+## Assignment 4: Gaussian Processes [TODO]
 
-## Assignment 5: Backpropagation
+## Assignment 5: Backpropagation [TODO]
 
-## Assignment 6: Reinforcement Learning
+## Assignment 6: Reinforcement Learning [TODO]
 
 # Known errors/desired fixes
-Below is a list of potential improvements or fixes for the scripts and 
+Below is a list of potential improvements or fixes for the scripts and known issues.
 
 ## Eigendigits:
 - Allow for checkpointing of the classifier to save and reuse
